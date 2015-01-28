@@ -1,0 +1,11 @@
+  0x400: 308400050000 |   irmovl $0x500, %esp 
+  0x406: 308500050000 |   irmovl $0x500, %ebp
+  0x40c: 7011040000   |   jmp $0x411
+  0x411: 8017040000   |   call $0x417
+  0x416: 10           |   halt
+  0x417: a058         |   pushl %ebp
+  0x419: 2045         |   rrmovl %esp, %ebp
+  0x41b: 308104000000 |   irmovl $0x4, %ecx
+  0x421: c0810c000000 |   iaddl $0xc, %ecx
+  0x427: d0           |   leave
+  0x428: 90           |   ret

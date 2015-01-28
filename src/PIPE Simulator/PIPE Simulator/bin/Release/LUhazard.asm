@@ -1,0 +1,7 @@
+  0x00000400: irmovl $0xa, %ebx
+  0x00000406: irmovl $0x80, %edx
+  0x0000040c: irmovl $0x3, %ecx
+  0x00000412: rmmovl %ecx, 0x0(%edx)
+  0x00000418: mrmovl 0x0(%edx), %eax
+  0x0000041e: addl %ebx, %eax
+  0x00000420: halt

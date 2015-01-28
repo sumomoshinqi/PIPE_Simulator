@@ -1,0 +1,4 @@
+  0x400: 30820a000000 |   irmovl $0xa, %edx
+  0x406: 308003000000 |   irmovl $0x3, %eax
+  0x40c: 6020		  |   addl %edx, %eax
+  0x40e: 10			  |   halt

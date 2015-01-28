@@ -1,0 +1,152 @@
+Cycle_0 Instruction_0
+--------------------
+F: AOK @ 0x00000400
+D: AOK @ 0x00000800
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_1 Instruction_0
+--------------------
+F: AOK @ 0x00000406
+D: AOK @ 0x00000400
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_2 Instruction_0
+--------------------
+F: AOK @ 0x0000040c
+D: AOK @ 0x00000406
+E: AOK @ 0x00000400
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_3 Instruction_0
+--------------------
+F: AOK @ 0x0000040e
+D: AOK @ 0x0000040c
+E: AOK @ 0x00000406
+M: AOK @ 0x00000400
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_4 Instruction_1
+--------------------
+F: AOK @ 0x0000040f
+D: AOK @ 0x0000040e
+E: AOK @ 0x0000040c
+M: AOK @ 0x00000406
+W: AOK @ 0x00000400
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_5 Instruction_2
+--------------------
+F: AOK @ 0x0000040f
+D: AOK @ 0x0000040f
+E: AOK @ 0x0000040e
+M: AOK @ 0x0000040c
+W: AOK @ 0x00000406
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x0000000a
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_6 Instruction_3
+--------------------
+F: AOK @ 0x0000040f
+D: AOK @ 0x0000040f
+E: AOK @ 0x0000040f
+M: AOK @ 0x0000040e
+W: AOK @ 0x0000040c
+%eax = 0x00000003
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x0000000a
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_7 Instruction_4
+--------------------
+F: AOK @ 0x0000040f
+D: AOK @ 0x0000040f
+E: AOK @ 0x0000040f
+M: AOK @ 0x0000040f
+W: AOK @ 0x0000040e
+%eax = 0x0000000d
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x0000000a
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000400
+%esp = 0x00000400
+  ZF = 0
+  OF = 0
+  SF = 0
+

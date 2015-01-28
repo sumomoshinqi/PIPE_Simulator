@@ -1,0 +1,14 @@
+In cycle 7:
+M[0x000000fc] <-  0x4
+
+In cycle 9:
+M[0x000000f8] <-  0x14
+
+In cycle 10:
+M[0x000000f4] <-  0x39
+
+In cycle 11:
+M[0x000000f0] <-  0x100
+
+In cycle 60:
+M[0x000000f4] <-  0x100

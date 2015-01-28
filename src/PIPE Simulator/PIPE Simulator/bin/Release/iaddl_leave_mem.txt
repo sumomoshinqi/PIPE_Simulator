@@ -1,0 +1,8 @@
+In cycle 6:
+M[0x000004fc] <-  0x416
+
+In cycle 7:
+M[0x000004f8] <-  0x500
+
+In cycle 17:
+M[0x000004fc] <-  0x500

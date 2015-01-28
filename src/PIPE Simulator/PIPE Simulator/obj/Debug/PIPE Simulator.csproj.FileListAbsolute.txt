@@ -1,0 +1,42 @@
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE_Simulator.Form1.resources
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE_Simulator.Properties.Resources.resources
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.csproj.GenerateResource.Cache
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.exe
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.pdb
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.csprojResolveAssemblyReference.cache
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.exe.licenses
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.exe.manifest
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\obj\Debug\PIPE Simulator.application
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator.exe.manifest
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator.application
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator.exe
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator.pdb
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\PIPE Simulator.exe.manifest
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\PIPE Simulator.application
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\PIPE Simulator.exe
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\PIPE Simulator.pdb
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.BonusSkins.v13.2.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Data.v13.2.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Utils.v13.2.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Data.v13.2.xml
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Utils.v13.2.xml
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\es\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ja\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\sumomoshinqi\Desktop\PIPE Simulator\PIPE Simulator\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll

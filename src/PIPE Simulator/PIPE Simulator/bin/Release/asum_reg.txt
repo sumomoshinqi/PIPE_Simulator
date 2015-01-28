@@ -1,0 +1,1159 @@
+Cycle_0 Instruction_0
+--------------------
+F: AOK @ 0x00000000
+D: AOK @ 0x00000800
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000000
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_1 Instruction_0
+--------------------
+F: AOK @ 0x00000006
+D: AOK @ 0x00000000
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000000
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_2 Instruction_0
+--------------------
+F: AOK @ 0x0000000c
+D: AOK @ 0x00000006
+E: AOK @ 0x00000000
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000000
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_3 Instruction_0
+--------------------
+F: AOK @ 0x00000024
+D: AOK @ 0x0000000c
+E: AOK @ 0x00000006
+M: AOK @ 0x00000000
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000000
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_4 Instruction_1
+--------------------
+F: AOK @ 0x0000002a
+D: AOK @ 0x00000024
+E: AOK @ 0x0000000c
+M: AOK @ 0x00000006
+W: AOK @ 0x00000000
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000000
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_5 Instruction_2
+--------------------
+F: AOK @ 0x0000002c
+D: AOK @ 0x0000002a
+E: AOK @ 0x00000024
+M: AOK @ 0x0000000c
+W: AOK @ 0x00000006
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000000
+%esp = 0x00000100
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_6 Instruction_3
+--------------------
+F: AOK @ 0x00000032
+D: AOK @ 0x0000002c
+E: AOK @ 0x0000002a
+M: AOK @ 0x00000024
+W: AOK @ 0x0000000c
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x00000100
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_7 Instruction_4
+--------------------
+F: AOK @ 0x00000034
+D: AOK @ 0x00000032
+E: AOK @ 0x0000002c
+M: AOK @ 0x0000002a
+W: AOK @ 0x00000024
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x00000100
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_8 Instruction_5
+--------------------
+F: AOK @ 0x0000003a
+D: AOK @ 0x00000034
+E: AOK @ 0x00000032
+M: AOK @ 0x0000002c
+W: AOK @ 0x0000002a
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x00000100
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_9 Instruction_6
+--------------------
+F: AOK @ 0x0000003c
+D: AOK @ 0x0000003a
+E: AOK @ 0x00000034
+M: AOK @ 0x00000032
+W: AOK @ 0x0000002c
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x000000fc
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_10 Instruction_7
+--------------------
+F: AOK @ 0x0000003e
+D: AOK @ 0x0000003c
+E: AOK @ 0x0000003a
+M: AOK @ 0x00000034
+W: AOK @ 0x00000032
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x000000fc
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_11 Instruction_8
+--------------------
+F: AOK @ 0x00000044
+D: AOK @ 0x0000003e
+E: AOK @ 0x0000003c
+M: AOK @ 0x0000003a
+W: AOK @ 0x00000034
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x000000f8
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_12 Instruction_9
+--------------------
+F: AOK @ 0x0000004a
+D: AOK @ 0x00000044
+E: AOK @ 0x0000003e
+M: AOK @ 0x0000003c
+W: AOK @ 0x0000003a
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x000000f4
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_13 Instruction_10
+--------------------
+F: AOK @ 0x00000050
+D: AOK @ 0x0000004a
+E: AOK @ 0x00000044
+M: AOK @ 0x0000003e
+W: AOK @ 0x0000003c
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x00000100
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_14 Instruction_11
+--------------------
+F: AOK @ 0x00000052
+D: AOK @ 0x00000050
+E: AOK @ 0x0000004a
+M: AOK @ 0x00000044
+W: AOK @ 0x0000003e
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000000
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_15 Instruction_12
+--------------------
+F: AOK @ 0x00000074
+D: AOK @ 0x00000052
+E: AOK @ 0x00000050
+M: AOK @ 0x0000004a
+W: AOK @ 0x00000044
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000014
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_16 Instruction_13
+--------------------
+F: AOK @ 0x00000076
+D: AOK @ 0x00000074
+E: AOK @ 0x00000052
+M: AOK @ 0x00000050
+W: AOK @ 0x0000004a
+%eax = 0x00000004
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_17 Instruction_14
+--------------------
+F: AOK @ 0x00000057
+D: BUB @ 0x00000800
+E: BUB @ 0x00000800
+M: AOK @ 0x00000052
+W: AOK @ 0x00000050
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_18 Instruction_15
+--------------------
+F: AOK @ 0x0000005d
+D: AOK @ 0x00000057
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000052
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_19 Instruction_15
+--------------------
+F: AOK @ 0x0000005f
+D: AOK @ 0x0000005d
+E: AOK @ 0x00000057
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_20 Instruction_15
+--------------------
+F: STA @ 0x0000005f
+D: STA @ 0x0000005d
+E: BUB @ 0x00000800
+M: AOK @ 0x00000057
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_21 Instruction_16
+--------------------
+F: AOK @ 0x00000065
+D: AOK @ 0x0000005f
+E: AOK @ 0x0000005d
+M: AOK @ 0x00000800
+W: AOK @ 0x00000057
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x00000000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_22 Instruction_16
+--------------------
+F: AOK @ 0x00000067
+D: AOK @ 0x00000065
+E: AOK @ 0x0000005f
+M: AOK @ 0x0000005d
+W: AOK @ 0x00000800
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_23 Instruction_17
+--------------------
+F: AOK @ 0x0000006d
+D: AOK @ 0x00000067
+E: AOK @ 0x00000065
+M: AOK @ 0x0000005f
+W: AOK @ 0x0000005d
+%eax = 0x00000000
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_24 Instruction_18
+--------------------
+F: AOK @ 0x0000006f
+D: AOK @ 0x0000006d
+E: AOK @ 0x00000067
+M: AOK @ 0x00000065
+W: AOK @ 0x0000005f
+%eax = 0x0000000d
+%ebx = 0x00000000
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_25 Instruction_19
+--------------------
+F: AOK @ 0x00000057
+D: AOK @ 0x0000006f
+E: AOK @ 0x0000006d
+M: AOK @ 0x00000067
+W: AOK @ 0x00000065
+%eax = 0x0000000d
+%ebx = 0x00000004
+%ecx = 0x00000014
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_26 Instruction_20
+--------------------
+F: AOK @ 0x0000005d
+D: AOK @ 0x00000057
+E: AOK @ 0x0000006f
+M: AOK @ 0x0000006d
+W: AOK @ 0x00000067
+%eax = 0x0000000d
+%ebx = 0x00000004
+%ecx = 0x00000018
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_27 Instruction_21
+--------------------
+F: AOK @ 0x0000005f
+D: AOK @ 0x0000005d
+E: AOK @ 0x00000057
+M: AOK @ 0x0000006f
+W: AOK @ 0x0000006d
+%eax = 0x0000000d
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000004
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_28 Instruction_22
+--------------------
+F: STA @ 0x0000005f
+D: STA @ 0x0000005d
+E: BUB @ 0x00000800
+M: AOK @ 0x00000057
+W: AOK @ 0x0000006f
+%eax = 0x0000000d
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_29 Instruction_23
+--------------------
+F: AOK @ 0x00000065
+D: AOK @ 0x0000005f
+E: AOK @ 0x0000005d
+M: AOK @ 0x00000800
+W: AOK @ 0x00000057
+%eax = 0x0000000d
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x0000000d
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_30 Instruction_23
+--------------------
+F: AOK @ 0x00000067
+D: AOK @ 0x00000065
+E: AOK @ 0x0000005f
+M: AOK @ 0x0000005d
+W: AOK @ 0x00000800
+%eax = 0x0000000d
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_31 Instruction_24
+--------------------
+F: AOK @ 0x0000006d
+D: AOK @ 0x00000067
+E: AOK @ 0x00000065
+M: AOK @ 0x0000005f
+W: AOK @ 0x0000005d
+%eax = 0x0000000d
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_32 Instruction_25
+--------------------
+F: AOK @ 0x0000006f
+D: AOK @ 0x0000006d
+E: AOK @ 0x00000067
+M: AOK @ 0x00000065
+W: AOK @ 0x0000005f
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_33 Instruction_26
+--------------------
+F: AOK @ 0x00000057
+D: AOK @ 0x0000006f
+E: AOK @ 0x0000006d
+M: AOK @ 0x00000067
+W: AOK @ 0x00000065
+%eax = 0x000000cd
+%ebx = 0x00000004
+%ecx = 0x00000018
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_34 Instruction_27
+--------------------
+F: AOK @ 0x0000005d
+D: AOK @ 0x00000057
+E: AOK @ 0x0000006f
+M: AOK @ 0x0000006d
+W: AOK @ 0x00000067
+%eax = 0x000000cd
+%ebx = 0x00000004
+%ecx = 0x0000001c
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_35 Instruction_28
+--------------------
+F: AOK @ 0x0000005f
+D: AOK @ 0x0000005d
+E: AOK @ 0x00000057
+M: AOK @ 0x0000006f
+W: AOK @ 0x0000006d
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000003
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_36 Instruction_29
+--------------------
+F: STA @ 0x0000005f
+D: STA @ 0x0000005d
+E: BUB @ 0x00000800
+M: AOK @ 0x00000057
+W: AOK @ 0x0000006f
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_37 Instruction_30
+--------------------
+F: AOK @ 0x00000065
+D: AOK @ 0x0000005f
+E: AOK @ 0x0000005d
+M: AOK @ 0x00000800
+W: AOK @ 0x00000057
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x000000c0
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_38 Instruction_30
+--------------------
+F: AOK @ 0x00000067
+D: AOK @ 0x00000065
+E: AOK @ 0x0000005f
+M: AOK @ 0x0000005d
+W: AOK @ 0x00000800
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_39 Instruction_31
+--------------------
+F: AOK @ 0x0000006d
+D: AOK @ 0x00000067
+E: AOK @ 0x00000065
+M: AOK @ 0x0000005f
+W: AOK @ 0x0000005d
+%eax = 0x000000cd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_40 Instruction_32
+--------------------
+F: AOK @ 0x0000006f
+D: AOK @ 0x0000006d
+E: AOK @ 0x00000067
+M: AOK @ 0x00000065
+W: AOK @ 0x0000005f
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_41 Instruction_33
+--------------------
+F: AOK @ 0x00000057
+D: AOK @ 0x0000006f
+E: AOK @ 0x0000006d
+M: AOK @ 0x00000067
+W: AOK @ 0x00000065
+%eax = 0x00000bcd
+%ebx = 0x00000004
+%ecx = 0x0000001c
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_42 Instruction_34
+--------------------
+F: AOK @ 0x0000005d
+D: AOK @ 0x00000057
+E: AOK @ 0x0000006f
+M: AOK @ 0x0000006d
+W: AOK @ 0x00000067
+%eax = 0x00000bcd
+%ebx = 0x00000004
+%ecx = 0x00000020
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_43 Instruction_35
+--------------------
+F: AOK @ 0x0000005f
+D: AOK @ 0x0000005d
+E: AOK @ 0x00000057
+M: AOK @ 0x0000006f
+W: AOK @ 0x0000006d
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000002
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_44 Instruction_36
+--------------------
+F: STA @ 0x0000005f
+D: STA @ 0x0000005d
+E: BUB @ 0x00000800
+M: AOK @ 0x00000057
+W: AOK @ 0x0000006f
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_45 Instruction_37
+--------------------
+F: AOK @ 0x00000065
+D: AOK @ 0x0000005f
+E: AOK @ 0x0000005d
+M: AOK @ 0x00000800
+W: AOK @ 0x00000057
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x00000b00
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_46 Instruction_37
+--------------------
+F: AOK @ 0x00000067
+D: AOK @ 0x00000065
+E: AOK @ 0x0000005f
+M: AOK @ 0x0000005d
+W: AOK @ 0x00000800
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_47 Instruction_38
+--------------------
+F: AOK @ 0x0000006d
+D: AOK @ 0x00000067
+E: AOK @ 0x00000065
+M: AOK @ 0x0000005f
+W: AOK @ 0x0000005d
+%eax = 0x00000bcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_48 Instruction_39
+--------------------
+F: AOK @ 0x0000006f
+D: AOK @ 0x0000006d
+E: AOK @ 0x00000067
+M: AOK @ 0x00000065
+W: AOK @ 0x0000005f
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 0
+  OF = 0
+  SF = 0
+
+Cycle_49 Instruction_40
+--------------------
+F: AOK @ 0x00000057
+D: AOK @ 0x0000006f
+E: AOK @ 0x0000006d
+M: AOK @ 0x00000067
+W: AOK @ 0x00000065
+%eax = 0x0000abcd
+%ebx = 0x00000004
+%ecx = 0x00000020
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_50 Instruction_41
+--------------------
+F: AOK @ 0x0000005d
+D: AOK @ 0x00000057
+E: AOK @ 0x0000006f
+M: AOK @ 0x0000006d
+W: AOK @ 0x00000067
+%eax = 0x0000abcd
+%ebx = 0x00000004
+%ecx = 0x00000024
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_51 Instruction_42
+--------------------
+F: AOK @ 0x00000074
+D: BUB @ 0x00000800
+E: BUB @ 0x00000800
+M: AOK @ 0x0000006f
+W: AOK @ 0x0000006d
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000001
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_52 Instruction_43
+--------------------
+F: AOK @ 0x00000076
+D: AOK @ 0x00000074
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x0000006f
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_53 Instruction_43
+--------------------
+F: AOK @ 0x00000077
+D: AOK @ 0x00000076
+E: AOK @ 0x00000074
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_54 Instruction_43
+--------------------
+F: STA @ 0x00000077
+D: BUB @ 0x00000800
+E: AOK @ 0x00000076
+M: AOK @ 0x00000074
+W: AOK @ 0x00000800
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_55 Instruction_44
+--------------------
+F: STA @ 0x00000077
+D: BUB @ 0x00000800
+E: AOK @ 0x00000800
+M: AOK @ 0x00000076
+W: AOK @ 0x00000074
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x000000f0
+%esp = 0x000000f0
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_56 Instruction_45
+--------------------
+F: STA @ 0x00000039
+D: BUB @ 0x00000800
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000076
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x00000100
+%esp = 0x000000f4
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_57 Instruction_45
+--------------------
+F: AOK @ 0x0000003a
+D: AOK @ 0x00000039
+E: AOK @ 0x00000800
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x00000100
+%esp = 0x000000f8
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_58 Instruction_45
+--------------------
+F: AOK @ 0x0000003c
+D: AOK @ 0x0000003a
+E: AOK @ 0x00000039
+M: AOK @ 0x00000800
+W: AOK @ 0x00000800
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x00000100
+%esp = 0x000000f8
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_59 Instruction_45
+--------------------
+F: AOK @ 0x0000003e
+D: AOK @ 0x0000003c
+E: AOK @ 0x0000003a
+M: AOK @ 0x00000039
+W: AOK @ 0x00000800
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x00000100
+%esp = 0x000000f8
+  ZF = 1
+  OF = 0
+  SF = 0
+
+Cycle_60 Instruction_46
+--------------------
+F: AOK @ 0x00000044
+D: AOK @ 0x0000003e
+E: AOK @ 0x0000003c
+M: AOK @ 0x0000003a
+W: AOK @ 0x00000039
+%eax = 0x0000abcd
+%ebx = 0xffffffff
+%ecx = 0x00000024
+%edx = 0x00000000
+%edi = 0x00000000
+%esi = 0x0000a000
+%ebp = 0x00000100
+%esp = 0x000000f8
+  ZF = 1
+  OF = 0
+  SF = 0
+

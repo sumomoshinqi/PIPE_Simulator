@@ -1,0 +1,14 @@
+  0x400: 6300         |   xorl %eax, %eax
+  0x402: 308101000000 |   irmovl $0x1, %ecx
+  0x408: 6010         |   addl %ecx, %eax
+  0x40a: 6311         |   xorl %ecx, %ecx
+  0x40c: 6000         |   addl %eax, %eax
+  0x40e: 6202         |   andl %eax, %edx
+  0x410: 6100         |   subl %eax, %eax
+  0x412: 3080ffffff7f |   irmovl $0x7fffffff, %eax
+  0x418: 3082ffffff7f |   irmovl $0x7fffffff, %edx
+  0x41e: 6002         |   addl %eax, %edx
+  0x420: 6300         |   xorl %eax, %eax
+  0x422: 3082ffffffff |   irmovl $0xffffffff, %edx
+  0x428: 6120         |   subl %edx, %eax
+  0x42a: 10           |   halt
