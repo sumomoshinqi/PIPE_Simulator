@@ -1,4 +1,4 @@
-##<center>PIPE Simulator 用户手册</center>
+##<center>PIPE Simulator</center>
 
 ###开发环境
 - ####内核
